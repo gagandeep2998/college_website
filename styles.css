@@ -1,0 +1,179 @@
+.navbar {
+  background-color: #3e64ff;
+}
+
+
+
+.heading {
+
+  margin: 2rem;
+  padding-left: 10%;
+  text-align: left;
+}
+
+
+#branches {
+  padding: 2% 4% ;
+  margin: 2% 4%;
+  display: inline-block;
+}
+.row {
+  padding-left: 10%;
+
+  text-align: center;
+}
+
+.opth {
+margin: 1%;
+
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #00bcd4;
+}
+
+.opto {
+  margin: 1% ;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #21bf73;
+}
+
+.textile {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #ff5d6c;
+}
+
+.electronics {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #f8b400;
+}
+
+.mechanical {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #21bf73;
+}
+
+.comp {
+margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #f8b400;
+}
+
+.civil {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #21bf73;
+}
+
+.electrical {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #00bcd4;
+}
+
+.production {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #00bcd4;
+}
+
+.automobile {
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #ff5d6c;
+}
+.shiv {
+  margin: auto;
+  height: 40%;
+  width: 60%;
+  border-radius: 50%;
+
+}
+
+.yasho {
+  height: 70%;
+  width: 100%;
+  border-radius: 50%;
+}
+.card {
+  margin: 1%;
+}
+.image {
+  height: 15rem;
+  width: 20rem;
+}
+.images {
+
+  margin: 2%;
+  padding: 2%;
+}
+.lasthead{
+  padding: 2% 4% ;
+  margin: 2% 4%;
+  text-align: center;
+}
+#recrut{
+  background-color: #3e64ff;
+  padding: 5%;
+
+}
+#footer{
+  background-color: #333333;
+  color: white;
+  padding: 2% 4% ;
+ text-align: center;
+
+}
+.collegeimg{
+
+  height: 100%;
+  width: 100%;
+  margin: 1%;
+}
+.student {
+ text-align: center;
+
+}
+#regi{
+  margin: 1%;
+}
+
+#contact {
+  padding: 2% 4%;
+  margin: 2%;
+
+}
+.frm{
+  margin: 1%;
+}
